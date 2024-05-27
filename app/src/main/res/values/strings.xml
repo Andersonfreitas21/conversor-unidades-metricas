@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Conversor de Unidades</string>
+    <string name="insira_valor" translatable="false">Insira um valor</string>
+    <string name="converter" translatable="false">Converter</string>
+    <string name="resultado" translatable="false">Resultado</string>
+    <string-array name="medidas">
+        <item>Centímetros</item>
+        <item>Metros</item>
+        <item>Quilômetros</item>
+        <item>Milhas</item>
+    </string-array>
+</resources>
