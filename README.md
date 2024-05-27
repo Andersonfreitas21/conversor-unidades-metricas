@@ -12,8 +12,9 @@ Este é um aplicativo Android para converter unidades de medida, como centímetr
 
 ## Capturas de Tela
 
-![Screenshot1](screenshots/screenshot1.png)
-![Screenshot2](screenshots/screenshot2.png)
+![Screenshot1](app/screenshots/screenshot1.png)
+![Screenshot2](app/screenshots/screenshot2.png)
+![Screenshot2](app/screenshots/screenshot3.png)
 
 ## Tecnologias Utilizadas
 
